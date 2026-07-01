@@ -51,6 +51,10 @@ public class UserEntity {
     @Column(nullable = false)
     private Role role;
 
+    private String otp;
+
+    private LocalDateTime otpExpiryTime;
+
     @Builder.Default
     @Column(name = "first_login", nullable = false)
     private Boolean firstLogin = true;

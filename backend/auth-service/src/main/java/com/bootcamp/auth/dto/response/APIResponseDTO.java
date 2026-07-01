@@ -1,4 +1,4 @@
-package com.bootcamp.auth.dto;
+package com.bootcamp.auth.dto.response;
 
 import lombok.Builder;
 import lombok.Data;

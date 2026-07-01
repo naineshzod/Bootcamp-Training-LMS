@@ -1,6 +1,6 @@
 package com.bootcamp.auth.mapper;
 
-import com.bootcamp.auth.dto.CreateEmployeeRequestDTO;
+import com.bootcamp.auth.dto.request.CreateEmployeeRequestDTO;
 import com.bootcamp.auth.entity.UserEntity;
 import org.springframework.stereotype.Component;
 

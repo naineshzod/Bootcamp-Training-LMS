@@ -1,4 +1,4 @@
-package com.bootcamp.auth.dto;
+package com.bootcamp.auth.dto.request;
 
 import com.bootcamp.auth.enums.Role;
 import jakarta.validation.constraints.Email;

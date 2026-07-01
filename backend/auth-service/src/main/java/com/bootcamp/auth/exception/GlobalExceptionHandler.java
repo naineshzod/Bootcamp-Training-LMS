@@ -1,6 +1,6 @@
 package com.bootcamp.auth.exception;
 
-import com.bootcamp.auth.dto.APIResponseDTO;
+import com.bootcamp.auth.dto.response.APIResponseDTO;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.MethodArgumentNotValidException;
